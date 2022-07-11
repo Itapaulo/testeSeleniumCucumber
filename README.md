@@ -1,1 +1,2 @@
 # testeSeleniumCucumber
+Demonstração de um teste automático, preenchendo o formulário com impressão de demonstração. Teste com java, Cucumber e selenium. A execução pode ser feita através da classe executa run as Junit ou através da classe AutomobileInsurance. Esse projeto conta com um print da tela de conclusão como prova. Para exibir basta atualizar o projeto após a execução e abrir a pasta EVIDENCIAS e a pasta TARGET
